@@ -82,10 +82,11 @@ model.predict(n)
 ### OUTPUT
 
 #### Training Loss Vs Iteration Plot
-![image](https://github.com/user-attachments/assets/eaa64275-cfdc-4a30-9ee6-54029d5903a2)
+![image](https://github.com/user-attachments/assets/962afafc-c381-4d47-8da0-f522b12f4f94)
+
 
 #### Test Data Root Mean Squared Error 
-![image](https://github.com/user-attachments/assets/c790197f-77f1-44c9-a60a-b1435f961e6f)
+![image](https://github.com/user-attachments/assets/ee571a1c-fc4c-4939-8357-e711aaa1eab5)
 
 ### RESULT
 Thus a neural network regression model for the given dataset is developed and the prediction for the given input is obtained accurately.
